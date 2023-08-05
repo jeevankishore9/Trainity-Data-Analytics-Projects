@@ -1,0 +1,92 @@
+1)Rewarding Most Loyal Users ,,,,,,
+id,username,created_at,,,,
+80,Darby_Herzog,06-05-16 0:14,,,,
+67,Emilio_Bernier52,06-05-16 13:04,,,,
+63,Elenor88,08-05-16 1:30,,,,
+95,Nicole71,09-05-16 17:30,,,,
+71,Nia_Haag,14-05-16 15:38,,,,
+2)Remind Inactive Users to Start Posting,,,,,,
+,,,,,,
+id,username,created_at,id,image_url,user_id,created_dat
+5,Aniya_Hackett,07-12-16 1:04,NULL,NULL,NULL,NULL
+7,Kasandra_Homenick,12-12-16 6:50,NULL,NULL,NULL,NULL
+14,Jaclyn81,06-02-17 23:29,NULL,NULL,NULL,NULL
+21,Rocio33,23-01-17 11:51,NULL,NULL,NULL,NULL
+24,Maxwell.Halvorson,18-04-17 2:32,NULL,NULL,NULL,NULL
+25,Tierra.Trantow,03-10-16 12:49,NULL,NULL,NULL,NULL
+34,Pearl7,08-07-16 21:42,NULL,NULL,NULL,NULL
+36,Ollie_Ledner37,04-08-16 15:42,NULL,NULL,NULL,NULL
+41,Mckenna17,17-07-16 17:25,NULL,NULL,NULL,NULL
+45,David.Osinski47,05-02-17 21:23,NULL,NULL,NULL,NULL
+49,Morgan.Kassulke,30-10-16 12:42,NULL,NULL,NULL,NULL
+53,Linnea59,07-02-17 7:49,NULL,NULL,NULL,NULL
+54,Duane60,21-12-16 4:43,NULL,NULL,NULL,NULL
+57,Julien_Schmidt,02-02-17 23:12,NULL,NULL,NULL,NULL
+66,Mike.Auer39,01-07-16 17:36,NULL,NULL,NULL,NULL
+68,Franco_Keebler64,13-11-16 20:09,NULL,NULL,NULL,NULL
+71,Nia_Haag,14-05-16 15:38,NULL,NULL,NULL,NULL
+74,Hulda.Macejkovic,25-01-17 17:17,NULL,NULL,NULL,NULL
+75,Leslie67,21-09-16 5:14,NULL,NULL,NULL,NULL
+76,Janelle.Nikolaus81,21-07-16 9:26,NULL,NULL,NULL,NULL
+80,Darby_Herzog,06-05-16 0:14,NULL,NULL,NULL,NULL
+81,Esther.Zulauf61,14-01-17 17:02,NULL,NULL,NULL,NULL
+83,Bartholome.Bernhard,06-11-16 2:31,NULL,NULL,NULL,NULL
+89,Jessyca_West,14-09-16 23:47,NULL,NULL,NULL,NULL
+90,Esmeralda.Mraz57,03-03-17 11:52,NULL,NULL,NULL,NULL
+91,Bethany20,03-06-16 23:31,NULL,NULL,NULL,NULL
+,,,,,,
+3)Declaring Contest Winner,,,,,,
+,,,,,,
+username,id,total_likes,,,,
+Zack_Kemmer93,52,48,,,,
+,,,,,,
+4)Top 5 Hashtag Researching,,,,,,
+,,,,,,
+TOP 5 Tags,No. of Times Used,,,,,
+smile,59,,,,,
+beach,42,,,,,
+party,39,,,,,
+fun,38,,,,,
+concert,24,,,,,
+,,,,,,
+5) Best Day for Launch of AD Campaign,,,,,,
+,,,,,,
+Days_of_the_week,Total,,,,,
+Thursday,16,,,,,
+Sunday,16,,,,,
+Friday,15,,,,,
+Tuesday,14,,,,,
+Monday,14,,,,,
+Wednesday,13,,,,,
+Saturday,12,,,,,
+,,,,,,
+6)User Engagement i)#total no of users of instagram,,,,,,
+,,,,,,
+total_no_of_users,,,,,,
+100,,,,,,
+,,,,,,
+6) ii) total no of photos on instagram,,,,,,
+,,,,,,
+total_no_of_photos,,,,,,
+257,,,,,,
+,,,,,,
+6) iii)average post per user,,,,,,
+Average Post per User,,,,,,
+2.57,,,,,,
+,,,,,,
+7)Bots & Fake Accounts,,,,,,
+,,,,,,
+user_id,username,no_of_likes,,,,
+5,Aniya_Hackett,257,,,,
+14,Jaclyn81,257,,,,
+21,Rocio33,257,,,,
+24,Maxwell.Halvorson,257,,,,
+36,Ollie_Ledner37,257,,,,
+41,Mckenna17,257,,,,
+54,Duane60,257,,,,
+57,Julien_Schmidt,257,,,,
+66,Mike.Auer39,257,,,,
+71,Nia_Haag,257,,,,
+75,Leslie67,257,,,,
+76,Janelle.Nikolaus81,257,,,,
+91,Bethany20,257,,,,
